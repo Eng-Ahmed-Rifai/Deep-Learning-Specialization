@@ -30,13 +30,13 @@ flowchart TD
 
 ## 🗂️ Curriculum & Specialization Map
 
-| Course # | Course Title | Weeks | Core Focus |
-| :--- | :--- | :---: | :--- |
-| **Course 1** | **[Neural Networks and Deep Learning](./01-Neural-Networks-and-Deep-Learning/)** | 4 | Forward/Backward Prop from scratch, Vectorization, L-Layer Deep Networks |
-| **Course 2** | **Improving Deep Neural Networks** | 3 | Initialization, L2 Regularization, Dropout, RMSProp, Adam, Batch Normalization |
-| **Course 3** | **Structuring Machine Learning Projects** | 2 | ML Strategy, Human-Level Performance, Train/Dev/Test distributions, Error Analysis |
-| **Course 4** | **Convolutional Neural Networks** | 4 | Convolutions, Pooling, ResNet architectures, Object Detection (YOLO), Face Verification |
-| **Course 5** | **Sequence Models** | 4 | Recurrent Neural Networks, GRUs, LSTMs, Word2Vec, Attention Mechanisms, Transformers |
+| Course # | Course Title | Weeks | Core Focus | Status & Credential |
+| :--- | :--- | :---: | :--- | :--- |
+| **Course 1** | **[Neural Networks and Deep Learning](./01-Neural-Networks-and-Deep-Learning/)** | 4 | Forward/Backward Prop from scratch, Vectorization, L-Layer Deep Networks | 🏆 [Certificate (GUVDXF1P99MO)](https://www.coursera.org/account/accomplishments/verify/GUVDXF1P99MO) |
+| **Course 2** | **[Improving Deep Neural Networks](./02-Improving-Deep-Neural-Networks/)** | 3 | Initialization, L2 Regularization, Dropout, RMSProp, Adam, Batch Normalization | 🏆 [Certificate (LJMX5Y6E98TW)](https://www.coursera.org/account/accomplishments/verify/LJMX5Y6E98TW) |
+| **Course 3** | **[Structuring Machine Learning Projects](./03-Structuring-Machine-Learning-Projects/)** | 2 | ML Strategy, Human-Level Performance, Train/Dev/Test distributions, Error Analysis | 🏆 [Certificate (3IDKEKSZSDB1)](https://www.coursera.org/account/accomplishments/verify/3IDKEKSZSDB1) |
+| **Course 4** | **[Convolutional Neural Networks](./04-Convolutional-Neural-Networks/)** | 4 | Convolutions, Pooling, ResNet architectures, Object Detection (YOLO), Face Verification | 🚀 Pre-tested Labs Ready (In Progress) |
+| **Course 5** | **Sequence Models** | 4 | Recurrent Neural Networks, GRUs, LSTMs, Word2Vec, Attention Mechanisms, Transformers | ⏳ Queued |
 
 ---
 
