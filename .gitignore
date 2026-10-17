@@ -1,4 +1,30 @@
+# Certificates & Proofs (Preserved on Google Drive)
+certificates/
+*.pdf
+*certificate*.png
+*Certificate*.png
+*Certificate*.pdf
+*grades*.png
+*badge*.png
 
+# Python & Jupyter
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
 
+# Datasets & Weights Cache
+*.h5
+*.pt
+*.pth
+*.npy
+*.npz
+
+# OS & IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
